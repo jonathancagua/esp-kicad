@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tiny-pico.kicad_pro",
+    "filename": "iot-wifi.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -412,7 +412,7 @@
   },
   "sheets": [
     [
-      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
+      "b75ad8c5-9f55-49ef-9af8-7ab1b11ab9d4",
       ""
     ]
   ],
